@@ -106,7 +106,9 @@ Run the notebook `credit-card fraud detection.ipynb` to follow the process for f
 ```bash
 pip install pandas numpy scikit-learn matplotlib seaborn
 
-'''bash
+
+This will make the "Cloning the Repository" section stand out as bold.
+
 git clone https://github.com/C-murugananthan/Encryptix-Data-Science.git
 cd Encryptix-Data-Science
 jupyter notebook
