@@ -28,7 +28,7 @@ The dataset used is the famous Titanic dataset, which is available on [Kaggle](h
 - Machine Learning Models: Logistic Regression, Random Forest, SVM, etc.
 
 ### Usage
-Run the notebook `titanic_survival_prediction.ipynb` to see the analysis and prediction steps.
+Run the notebook `titanic-prediction.ipynb` to see the analysis and prediction steps.
 
 ## 2. IMDB Movie Ratings Prediction
 
@@ -44,7 +44,7 @@ The dataset consists of movie information and ratings from [IMDB](https://www.im
 - Regression Models: Linear Regression, Decision Trees, etc.
 
 ### Usage
-Run the notebook `imdb_movie_ratings_prediction.ipynb` to follow the steps for data processing and model building.
+Run the notebook `movie-prediction.ipynb` to follow the steps for data processing and model building.
 
 ## 3. Iris Flower Classification and Prediction
 
@@ -60,7 +60,7 @@ The Iris dataset is available in the [UCI Machine Learning Repository](https://a
 - Model Evaluation
 
 ### Usage
-Run the notebook `iris_flower_classification.ipynb` to explore the classification process.
+Run the notebook 'iris-classification.ipynb` to explore the classification process.
 
 ## 4. Sales Prediction
 
@@ -76,7 +76,7 @@ The dataset contains historical sales data for a retail store. It can be sourced
 - Machine Learning Models: ARIMA, Prophet, LSTM, etc.
 
 ### Usage
-Run the notebook `sales_prediction.ipynb` to see the steps for forecasting future sales.
+Run the notebook `sales-prediction.ipynb` to see the steps for forecasting future sales.
 
 ## 5. Credit Card Fraud Detection
 
@@ -93,7 +93,7 @@ The dataset is from a credit card company containing anonymized transaction deta
 - Model Evaluation
 
 ### Usage
-Run the notebook `credit_card_fraud_detection.ipynb` to follow the process for fraud detection.
+Run the notebook `credit-card fraud detection.ipynb` to follow the process for fraud detection.
 
 ## Getting Started
 
@@ -106,7 +106,7 @@ Run the notebook `credit_card_fraud_detection.ipynb` to follow the process for f
 ```bash
 pip install pandas numpy scikit-learn matplotlib seaborn
 
-###Running the notebooks  
+'''bash
 git clone https://github.com/C-murugananthan/Encryptix-Data-Science.git
 cd Encryptix-Data-Science
 jupyter notebook
